@@ -6,3 +6,8 @@ Data/2nd_test/
 Data/3rd_test/
 # Raw input datasets
 Data/
+
+# Local datasets: keep on this computer, never upload to GitHub
+Data/1st_test/
+Data/2nd_test/
+Data/3rd_test/
